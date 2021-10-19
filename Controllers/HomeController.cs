@@ -23,7 +23,7 @@ namespace PerpustakaanMulyoAbadi.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Perpustakaan()
         {
            return View(); 
         }

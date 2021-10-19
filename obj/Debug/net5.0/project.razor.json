@@ -15629,11 +15629,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\project\\PerpustakaanMulyoAbadi\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\project\\PerpustakaanMulyoAbadi\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -15641,6 +15636,11 @@
     {
       "FilePath": "d:\\project\\PerpustakaanMulyoAbadi\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\project\\PerpustakaanMulyoAbadi\\Views\\Home\\Perpustakaan.cshtml",
+      "TargetPath": "Views\\Home\\Perpustakaan.cshtml",
       "FileKind": "mvc"
     },
     {

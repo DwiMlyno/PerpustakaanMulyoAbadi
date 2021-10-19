@@ -23,8 +23,6 @@ D:\project\PerpustakaanMulyoAbadi\obj\Debug\net5.0\scopedcss\bundle\Perpustakaan
 D:\project\PerpustakaanMulyoAbadi\obj\Debug\net5.0\PerpustakaanMulyoAbadi.TagHelpers.input.cache
 D:\project\PerpustakaanMulyoAbadi\obj\Debug\net5.0\PerpustakaanMulyoAbadi.TagHelpers.output.cache
 D:\project\PerpustakaanMulyoAbadi\obj\Debug\net5.0\PerpustakaanMulyoAbadi.RazorCoreGenerate.cache
-D:\project\PerpustakaanMulyoAbadi\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-D:\project\PerpustakaanMulyoAbadi\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 D:\project\PerpustakaanMulyoAbadi\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 D:\project\PerpustakaanMulyoAbadi\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\project\PerpustakaanMulyoAbadi\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -38,3 +36,5 @@ D:\project\PerpustakaanMulyoAbadi\obj\Debug\net5.0\ref\PerpustakaanMulyoAbadi.dl
 D:\project\PerpustakaanMulyoAbadi\obj\Debug\net5.0\PerpustakaanMulyoAbadi.pdb
 D:\project\PerpustakaanMulyoAbadi\obj\Debug\net5.0\PerpustakaanMulyoAbadi.genruntimeconfig.cache
 D:\project\PerpustakaanMulyoAbadi\obj\Debug\net5.0\PerpustakaanMulyoAbadi.csproj.CopyComplete
+D:\project\PerpustakaanMulyoAbadi\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\project\PerpustakaanMulyoAbadi\obj\Debug\net5.0\Razor\Views\Home\Perpustakaan.cshtml.g.cs
